@@ -30,7 +30,7 @@ GitHub → GitHub Actions → AWS ECR → AWS ECS Fargate
 ### Local Development
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone [https://github.com/Kofijoo/my-aws-deployment.git]
 cd joo-kofi
 
 # Run with Docker
